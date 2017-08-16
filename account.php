@@ -5,8 +5,8 @@
     <div class="nav-wrapper grey lighten-2">
       <a href="#" class="brand-logo black-text"></a>
       <ul id="nav-mobile" class="right hide-on-med-and-down">
-        <!-- <li><a class="waves-effect waves-light btn grey lighten-3 black-text">Login</a></li> -->
-        <li><a href="account.php" class="waves-effect waves-light btn light-green darken-1">Mijn account</a></li>
+        <!-- <li><a class="waves-effect waves-light btn grey lighten-3 black-text">Login</a></li>
+        <li><a class="waves-effect waves-light btn light-green darken-1">Mijn account</a></li> -->
       </ul>
     </div>
   </nav>

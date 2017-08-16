@@ -35,4 +35,13 @@ function init() {
   });
 
   $('select').material_select();
+
+  $('.carousel').carousel();
+
+  $('.tap-target').tapTarget('open');
+
+  $("#new-collection-btn").on("click", function(event){
+    $('.tap-target').tapTarget('open');
+  });
+
 }

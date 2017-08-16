@@ -1,12 +1,27 @@
 <?php require_once("includes/head.php"); ?>
 <body>
 
+  <div class="fixed-action-btn">
+    <!-- Element Showed -->
+    <a id="new-collection-btn" class="waves-effect waves-light btn-floating btn-large red" ><i class="material-icons">warning</i></a>
+
+    <!-- Tap Target Structure -->
+    <div class="tap-target" data-activates="new-collection-btn">
+      <div class="tap-target-content white-text">
+        <h5>Nieuwe collectie!</h5>
+        <p>De nieuwe collectie van favarieten groothandels nu beschikbaar.</p>
+        <a href="new-collection.php" class="waves-effect waves-light btn green darken-1">Bekijken</a>
+      </div>
+    </div>
+  </div>
+
   <nav>
     <div class="nav-wrapper grey lighten-4">
       <a href="#" class="brand-logo black-text"></a>
       <ul id="nav-mobile" class="right hide-on-med-and-down">
-        <li><a class="waves-effect waves-light btn grey lighten-3 black-text">Login</a></li>
-        <li><a class="waves-effect waves-light btn light-green darken-1">Mijn account</a></li>
+        <!-- <li><a class="waves-effect waves-light btn grey lighten-3 black-text">Login</a></li> -->
+
+        <li><a href="account.php" class="waves-effect waves-light btn light-green darken-1">Mijn account</a></li>
       </ul>
     </div>
   </nav>

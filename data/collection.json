@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Lipsy Jumpsuit black",
+    "type": "jumpsuit",
+    "image": "images/cloth1",
+    "carousel-items": 3,
+    "detail": {
+      "number": "8475-3934",
+      "material": "katoen",
+      "price": 30.15,
+      "deliver": "4 dagen",
+      "brand": "geen"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Jumpsuit blue striped",
+    "type": "jumpsuit",
+    "image": "images/cloth2",
+    "carousel-items": 3,
+    "detail": {
+      "number": "0238-8847",
+      "material": "katoen",
+      "price": 39.95,
+      "deliver": "5 dagen",
+      "brand": "geen"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Shirt no sleve",
+    "type": "shirt",
+    "image": "images/cloth3",
+    "carousel-items": 3,
+    "detail": {
+      "number": "1332-9374",
+      "material": "katoen",
+      "price": 29.65,
+      "deliver": "2 dagen",
+      "brand": "geen"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Ray-ban zonnenbril",
+    "type": "zonnenbril",
+    "image": "images/cloth4",
+    "carousel-items": 3,
+    "detail": {
+      "number": "4473-1983",
+      "material": "kunstof",
+      "price": 59.55,
+      "deliver": "7 dagen",
+      "brand": "Ray-ban"
+    }
+  },
+  {
+    "id": 5,
+    "name": "White leather snake print",
+    "type": "schoen",
+    "image": "images/cloth5",
+    "carousel-items": 3,
+    "detail": {
+      "number": "3145-5543",
+      "material": "leer",
+      "price": 13.45,
+      "deliver": "4 dagen",
+      "brand": "geen"
+    }
+  }
+]
